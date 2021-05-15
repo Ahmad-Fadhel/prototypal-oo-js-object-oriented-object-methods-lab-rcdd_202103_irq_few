@@ -20,7 +20,9 @@ BoardMember.prototype.releasePressStatement = function(){
   return `You will see great things from Scuber.`
 }
 
-BoardMember.prototype.
+BoardMember.prototype.sayHi = function(){
+  return ``
+}
 
 
 
