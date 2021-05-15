@@ -5,3 +5,11 @@ function BoardMember(name, homeState, training){
 }
 
 BoardMember.prototype.
+
+BoardMember.prototype.
+
+BoardMember.prototype.
+
+BoardMember.prototype.
+
+BoardMember.prototype.
